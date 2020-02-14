@@ -1,4 +1,4 @@
 # hello-world
-my first github project
-Feb 14th my first github project, looking forward to learning.
-I like all python & shell scripting, am very much intrigued by github.
+
+Feb 14th, 2020 - my first github project, looking forward to learning.
+I like python & shell scripting, am very much intrigued by github.
